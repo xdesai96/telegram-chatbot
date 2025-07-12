@@ -35,8 +35,8 @@ It provides a foundation for creating small bots with basic commands and can be 
 ### Installation
 
 ```bash
-git clone https://github.com/xdesai96/telegram-bot-template.git
-cd telegram-bot-template
+git clone https://github.com/xdesai96/telegram-chatbot.git
+cd telegram-chatbot
 python -m venv venv
 source venv/bin/activate  # on Windows: venv\Scripts\activate
 pip install -r requirements.txt
